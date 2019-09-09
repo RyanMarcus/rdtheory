@@ -1,6 +1,6 @@
 {
    "name": "rdtheory",
-   "version": "0.0.4",
+   "version": "0.0.5",
    "description": "a library implementing several algorithms from relational database theory",
    "main": "rdtheory.js",
    "directories": {
