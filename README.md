@@ -2,7 +2,6 @@
 
 [![NPM](https://nodei.co/npm/rdtheory.png)](https://nodei.co/npm/rdtheory/)
 
-![Jenkins](http://jenkins.rmarcus.info/buildStatus/icon?job=rdtheory.js)
 
 ## Installation
 	npm install rdtheory
