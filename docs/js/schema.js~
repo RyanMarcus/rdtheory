@@ -1,0 +1,3 @@
+function SchemaCtrl($scope) {
+	$scope.attributes = ['Email'];
+}
