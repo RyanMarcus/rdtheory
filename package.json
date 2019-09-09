@@ -1,0 +1,26 @@
+{
+   "name": "rdtheory",
+   "version": "0.0.3",
+   "description": "a library implementing several algorithms from relational database theory",
+   "main": "rdtheory.js",
+   "directories": {
+      "test": "test"
+   },
+   "devDependencies": {
+      "mocha": "^6.2.0"
+   },
+   "scripts": {
+      "test": "node_modules/.bin/mocha"
+   },
+   "repository": {
+      "type": "hg",
+      "url": "https://bitbucket.org/RyanMarcus/rdtheory"
+   },
+   "keywords": [
+      "rdbms",
+      "3nf",
+      "decomposition"
+   ],
+   "author": "Ryan Marcus <ryan@rmarcus.info>",
+   "license": "ISC"
+}
